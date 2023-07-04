@@ -48,6 +48,9 @@ LANGUAGES:
 CONTACTS:
 
 - www.linkedin.com/in/joaolucaspc
+
+WEBSITE PORTFOLIO:
+
 - www.github.com/JoaoLucas-bot
 
   
