@@ -15,23 +15,23 @@ Provide technical and logistical support to all military and civilian personnel 
 
 MAIN ACADEMIC PROJECTS:
 
--Building a Computer - Hardware (Computer Technician Course)
--Creating a Website - WordPress (Computer Technician Course)
--Mancala Game (Python) - Algorithms and Programming (1st year -BSc)
--Euclid's Algorithm (Python) - Discrete Computation Structures (1st year - BSc)
--Electronic Revenue Management - Database Modeling (1st year - BSc)
--Cinema Room (Python) - Algorithms and Data Structure (1st year BSc)
--Calculator (Assembly) - Computer Architecture (1st year - BSc)
--Monte Carlo Algorithm (C) - Operating Systems (1st year - BSc)
--Store Management (Microsoft Access) - Database Application (2nd year - BSc)
--TicTacToe (Java) - Object Oriented Programming (2nd year - BSc)
--Disaster Recovery Planning - Systems Analysis (2nd year - BSc)
--RPA Project for a Client - Software Engineering (2nd year - BSc)
--Research Work - Blockchain System - Network Engineering (2nd year - BSc)
--Car traffic simulation at an intersection - Programming Paradigms (2nd year - BSc)
--GECCO Engineering Project - Programming Paradigms (2nd year - BSc)
+- Building a Computer - Hardware (Computer Technician Course)
+- Creating a Website - WordPress (Computer Technician Course)
+- Mancala Game (Python) - Algorithms and Programming (1st year -BSc)
+- Euclid's Algorithm (Python) - Discrete Computation Structures (1st year - BSc)
+- Electronic Revenue Management - Database Modeling (1st year - BSc)
+- Cinema Room (Python) - Algorithms and Data Structure (1st year BSc)
+- Calculator (Assembly) - Computer Architecture (1st year - BSc)
+- Monte Carlo Algorithm (C) - Operating Systems (1st year - BSc)
+- Store Management (Microsoft Access) - Database Application (2nd year - BSc)
+- TicTacToe (Java) - Object Oriented Programming (2nd year - BSc)
+- Disaster Recovery Planning - Systems Analysis (2nd year - BSc)
+- RPA Project for a Client - Software Engineering (2nd year - BSc)
+- Research Work - Blockchain System - Network Engineering (2nd year - BSc)
+- Car traffic simulation at an intersection - Programming Paradigms (2nd year - BSc)
+- GECCO Engineering Project - Programming Paradigms (2nd year - BSc)
 
--CodeWars - 5 Kyu Level (JoaoLucas-bot)
+- CodeWars - 5 Kyu Level (JoaoLucas-bot)
 
 EDUCATION:
 
