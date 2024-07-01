@@ -25,8 +25,8 @@ EDUCATION:
 - PORTUGUESE AIR FORCE MILITARY (2018-2020):
 Military Technical Course  (Portuguese Air Force - CFMTFA (2018-2020))
 
-- BSC IN COMPUTER SCIENCE AND ENGINEERING (2020-PRESENT):
-Computer Science and Engineering (3rd Year) - University Autónoma de Lisboa (Portugal)
+- BSC IN COMPUTER SCIENCE AND ENGINEERING (2021-2024):
+Computer Science and Engineering - University Autónoma de Lisboa (Portugal)
 
   
 
