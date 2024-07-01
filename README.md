@@ -2,7 +2,7 @@
 
 PROFILE:
 
-- In my 3rd year of the BSc in Computer Science and Engineering, with a great interest in areas of science, technology, engineering and mathematics (STEM Student). Military. Student-Worker.
+- Graduated in Computer Science and Engineering, with a great interest in areas of science, technology, engineering and mathematics (STEM Student). Military. Student-Worker.
 
 MAIN ACADEMIC PROJECTS:
 
